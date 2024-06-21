@@ -1,0 +1,30 @@
+Nguyễn Văn Trọng Nguyên: Hành Trình Từ Đam Mê Đến Thành Công
+
+Giới Thiệu
+Xin chào, tôi là Nguyễn Văn Trọng Nguyên sinh ngày 02 tháng 04 năm 2002 sống và làm việc tại thành phố Đà Nẵng, một sinh viên năm cuối của Trường Đại học Bách khoa Đà Nẵng. Ngoài việc học, tôi đang làm việc như một Fullstack Developer tại Công ty DAC ở Đà Nẵng. Đây là câu chuyện về hành trình của tôi từ những ngày đầu đam mê công nghệ thông tin, qua quá trình học tập và làm việc, đến những mục tiêu và ước mơ tương lai.
+
+Những Ngày Đầu
+Đam Mê Công Nghệ Từ Thuở Bé
+Ngay từ khi còn nhỏ, tôi đã bị cuốn hút bởi những chiếc máy tính và các thiết bị điện tử. Tôi nhớ những ngày còn là học sinh tiểu học, khi mà việc sở hữu một chiếc máy tính cá nhân còn là điều xa xỉ. Tôi thường dành hàng giờ để khám phá chiếc máy tính cũ của gia đình, học cách cài đặt phần mềm, và thậm chí là tự tay tháo lắp các bộ phận để hiểu rõ hơn về cách chúng hoạt động.
+
+Những Bước Đi Đầu Tiên Trong Lập Trình
+Khi lên cấp hai, tôi bắt đầu tiếp cận với lập trình qua những khóa học cơ bản về HTML và CSS. Mặc dù những kiến thức ban đầu khá đơn giản, nhưng chúng đã mở ra một thế giới mới đầy màu sắc và thú vị. Tôi say mê tạo ra những trang web đơn giản, và niềm đam mê đó ngày càng lớn dần theo thời gian.
+
+Hành Trình Học Tập Tại Đại Học Bách Khoa Đà Nẵng
+
+Làm Việc Tại Công Ty DAC
+Bước Chân Đầu Tiên Vào Môi Trường Làm Việc Chuyên Nghiệp
+Trước khi bước vào năm cuối đại học, tôi đã may mắn được nhận vào làm thực tập sinh tại Công ty DAC, một công ty công nghệ hàng đầu tại Đà Nẵng. Đây là cơ hội tuyệt vời để tôi áp dụng những kiến thức đã học vào thực tế và học hỏi từ các đồng nghiệp giàu kinh nghiệm.
+
+Trở Thành Fullstack Developer
+Sau kỳ thực tập, tôi được công ty DAC nhận vào làm việc chính thức với vị trí Fullstack Developer. Công việc này đòi hỏi tôi phải nắm vững cả frontend và backend, từ việc thiết kế giao diện người dùng đến quản lý cơ sở dữ liệu và xử lý logic nghiệp vụ. Dưới đây là một số kỹ năng và công việc cụ thể mà tôi đã thực hiện:
+
+Frontend Development: Sử dụng các công nghệ như HTML, CSS, JavaScript, và các framework như ReactJS để phát triển giao diện người dùng thân thiện và hiệu quả.
+Backend Development: Sử dụng Node.js, Express và các hệ quản trị cơ sở dữ liệu như MongoDB và MySQL để xây dựng các API và quản lý dữ liệu.
+DevOps: Triển khai và quản lý các ứng dụng trên các nền tảng cloud như AWS và Azure, đảm bảo hệ thống hoạt động ổn định và an toàn.
+Testing and Debugging: Sử dụng các công cụ như Jest và Cypress để viết các bài kiểm thử tự động, đảm bảo chất lượng và hiệu suất của phần mềm.
+
+Kết Luận
+Hành trình từ một cậu bé đam mê công nghệ đến một sinh viên năm cuối và Fullstack Developer tại Công ty DAC đã dạy cho tôi nhiều bài học quý giá. Đó là hành trình của sự kiên trì, nỗ lực không ngừng và luôn hướng về phía trước. Tôi tự hào về những gì mình đã đạt được và luôn sẵn sàng đối mặt với những thử thách mới trong tương lai.
+
+Cảm ơn bạn đã dành thời gian đọc câu chuyện của tôi. Nếu bạn cũng có niềm đam mê với công nghệ, hãy không ngừng theo đuổi nó, bởi vì công nghệ không chỉ là tương lai, mà còn là hiện tại của chúng ta.

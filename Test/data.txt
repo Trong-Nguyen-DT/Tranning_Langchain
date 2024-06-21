@@ -1,0 +1,63 @@
+Nguyễn Văn Trọng Nguyên: Hành Trình Từ Đam Mê Đến Thành Công
+
+Giới Thiệu
+Xin chào, tôi là Nguyễn Văn Trọng Nguyên sống và làm việc tại thành phố Đà Nẵng, một sinh viên năm cuối của Trường Đại học Bách khoa Đà Nẵng. Ngoài việc học, tôi đang làm việc như một Fullstack Developer tại Công ty DAC ở Đà Nẵng. Đây là câu chuyện về hành trình của tôi từ những ngày đầu đam mê công nghệ thông tin, qua quá trình học tập và làm việc, đến những mục tiêu và ước mơ tương lai.
+
+Những Ngày Đầu
+Đam Mê Công Nghệ Từ Thuở Bé
+Ngay từ khi còn nhỏ, tôi đã bị cuốn hút bởi những chiếc máy tính và các thiết bị điện tử. Tôi nhớ những ngày còn là học sinh tiểu học, khi mà việc sở hữu một chiếc máy tính cá nhân còn là điều xa xỉ. Tôi thường dành hàng giờ để khám phá chiếc máy tính cũ của gia đình, học cách cài đặt phần mềm, và thậm chí là tự tay tháo lắp các bộ phận để hiểu rõ hơn về cách chúng hoạt động.
+
+Những Bước Đi Đầu Tiên Trong Lập Trình
+Khi lên cấp hai, tôi bắt đầu tiếp cận với lập trình qua những khóa học cơ bản về HTML và CSS. Mặc dù những kiến thức ban đầu khá đơn giản, nhưng chúng đã mở ra một thế giới mới đầy màu sắc và thú vị. Tôi say mê tạo ra những trang web đơn giản, và niềm đam mê đó ngày càng lớn dần theo thời gian.
+
+Hành Trình Học Tập Tại Đại Học Bách Khoa Đà Nẵng
+Năm Nhất: Bước Chân Đầu Tiên Vào Đại Học
+Khi trúng tuyển vào Trường Đại học Bách khoa Đà Nẵng, tôi cảm thấy như mình đã đạt được một trong những cột mốc quan trọng đầu tiên trong cuộc đời. Năm nhất đại học không chỉ mang lại cho tôi những kiến thức nền tảng về khoa học máy tính mà còn giúp tôi gặp gỡ nhiều người bạn cùng chung đam mê.
+
+Năm Hai: Khám Phá Và Thử Nghiệm
+Năm hai đại học là thời điểm tôi bắt đầu chuyên sâu vào các môn học lập trình và phát triển phần mềm. Tôi tham gia vào nhiều dự án nhóm, nơi chúng tôi cùng nhau phát triển các ứng dụng đơn giản nhưng hữu ích. Thông qua những dự án này, tôi không chỉ nâng cao kỹ năng lập trình mà còn học được cách làm việc nhóm, quản lý thời gian và giải quyết các vấn đề thực tế.
+
+Năm Ba: Bước Đầu Khẳng Định Bản Thân
+Năm ba là một năm đầy thử thách nhưng cũng rất đáng nhớ. Tôi bắt đầu thực hiện các dự án phức tạp hơn và tham gia vào nhiều cuộc thi lập trình. Một trong những thành tựu đáng nhớ nhất là khi tôi cùng nhóm của mình giành giải nhất trong cuộc thi Hackathon của trường. Chiến thắng này không chỉ khẳng định năng lực của tôi mà còn tiếp thêm động lực để tôi tiếp tục cố gắng.
+
+Năm Cuối: Chuẩn Bị Cho Tương Lai
+Hiện tại, tôi đang là sinh viên năm cuối. Đây là giai đoạn mà tôi phải đối mặt với nhiều áp lực từ việc hoàn thành luận văn tốt nghiệp, tham gia thực tập, và chuẩn bị cho công việc tương lai. Tuy nhiên, tôi luôn tin tưởng rằng những nỗ lực của mình sẽ được đền đáp xứng đáng.
+
+Làm Việc Tại Công Ty DAC
+Bước Chân Đầu Tiên Vào Môi Trường Làm Việc Chuyên Nghiệp
+Trước khi bước vào năm cuối đại học, tôi đã may mắn được nhận vào làm thực tập sinh tại Công ty DAC, một công ty công nghệ hàng đầu tại Đà Nẵng. Đây là cơ hội tuyệt vời để tôi áp dụng những kiến thức đã học vào thực tế và học hỏi từ các đồng nghiệp giàu kinh nghiệm.
+
+Trở Thành Fullstack Developer
+Sau kỳ thực tập, tôi được công ty DAC nhận vào làm việc chính thức với vị trí Fullstack Developer. Công việc này đòi hỏi tôi phải nắm vững cả frontend và backend, từ việc thiết kế giao diện người dùng đến quản lý cơ sở dữ liệu và xử lý logic nghiệp vụ. Dưới đây là một số kỹ năng và công việc cụ thể mà tôi đã thực hiện:
+
+Frontend Development: Sử dụng các công nghệ như HTML, CSS, JavaScript, và các framework như ReactJS để phát triển giao diện người dùng thân thiện và hiệu quả.
+Backend Development: Sử dụng Node.js, Express và các hệ quản trị cơ sở dữ liệu như MongoDB và MySQL để xây dựng các API và quản lý dữ liệu.
+DevOps: Triển khai và quản lý các ứng dụng trên các nền tảng cloud như AWS và Azure, đảm bảo hệ thống hoạt động ổn định và an toàn.
+Testing and Debugging: Sử dụng các công cụ như Jest và Cypress để viết các bài kiểm thử tự động, đảm bảo chất lượng và hiệu suất của phần mềm.
+Những Dự Án Nổi Bật
+Trong thời gian làm việc tại DAC, tôi đã tham gia và hoàn thành nhiều dự án quan trọng. Một số dự án đáng chú ý bao gồm:
+
+Hệ Thống Quản Lý Bán Hàng: Phát triển một ứng dụng web cho phép các doanh nghiệp quản lý kho hàng, đơn hàng và khách hàng một cách hiệu quả. Ứng dụng này được sử dụng bởi nhiều doanh nghiệp nhỏ và vừa tại Đà Nẵng.
+Ứng Dụng Học Trực Tuyến: Xây dựng một nền tảng học trực tuyến với các tính năng như quản lý khóa học, bài giảng video, và các bài kiểm tra trực tuyến. Nền tảng này đã giúp nhiều sinh viên và giảng viên duy trì việc học tập và giảng dạy trong thời gian đại dịch.
+Hệ Thống Giao Hàng: Phát triển một hệ thống giúp các cửa hàng quản lý việc giao hàng, từ việc nhận đơn hàng đến theo dõi tình trạng giao hàng. Hệ thống này đã cải thiện hiệu suất và độ chính xác trong việc giao hàng của nhiều doanh nghiệp.
+Kinh Nghiệm Và Kỹ Năng
+Qua quá trình làm việc tại DAC, tôi đã tích lũy được nhiều kinh nghiệm quý báu và phát triển các kỹ năng quan trọng, bao gồm:
+
+Kỹ Năng Kỹ Thuật: Nắm vững các công nghệ và công cụ lập trình hiện đại, khả năng giải quyết các vấn đề kỹ thuật phức tạp và tối ưu hóa hiệu suất phần mềm.
+Kỹ Năng Làm Việc Nhóm: Học cách làm việc hiệu quả trong nhóm, biết cách lắng nghe và chia sẻ ý kiến, cũng như hỗ trợ đồng nghiệp khi cần thiết.
+Kỹ Năng Quản Lý Thời Gian: Biết cách lập kế hoạch và ưu tiên công việc, đảm bảo hoàn thành đúng hạn mà không ảnh hưởng đến chất lượng công việc.
+Kỹ Năng Giao Tiếp: Phát triển khả năng giao tiếp rõ ràng và hiệu quả, từ việc trao đổi với đồng nghiệp đến việc trình bày dự án trước khách hàng.
+Những Dự Định Tương Lai
+Học Hỏi Và Phát Triển Bản Thân
+Tôi luôn tin rằng học hỏi là một quá trình liên tục và không ngừng nghỉ. Trong tương lai, tôi dự định tiếp tục nâng cao kiến thức và kỹ năng của mình bằng cách tham gia các khóa học chuyên sâu, đọc sách, và tham dự các hội thảo công nghệ. Tôi cũng hy vọng có thể đóng góp vào cộng đồng lập trình bằng cách chia sẻ kiến thức và kinh nghiệm của mình qua các bài viết blog, video hướng dẫn và các buổi nói chuyện tại các sự kiện công nghệ.
+
+Mục Tiêu Sự Nghiệp
+Một trong những mục tiêu lớn nhất của tôi là trở thành một chuyên gia hàng đầu trong lĩnh vực phát triển phần mềm. Tôi mong muốn có thể lãnh đạo các dự án lớn, từ khâu lên ý tưởng đến khi triển khai và duy trì. Đồng thời, tôi cũng muốn trở thành một người thầy, một mentor, giúp đỡ các bạn trẻ mới vào nghề có thể phát triển và thành công trong sự nghiệp của mình.
+
+Khởi Nghiệp
+Khởi nghiệp luôn là một giấc mơ lớn đối với tôi. Tôi mong muốn có thể tạo ra những sản phẩm công nghệ đột phá, giải quyết các vấn đề thực tế và mang lại giá trị cho cộng đồng. Tôi tin rằng với kiến thức, kỹ năng và kinh nghiệm đã tích lũy, tôi sẽ có thể hiện thực hóa giấc mơ này trong tương lai không xa.
+
+Kết Luận
+Hành trình từ một cậu bé đam mê công nghệ đến một sinh viên năm cuối và Fullstack Developer tại Công ty DAC đã dạy cho tôi nhiều bài học quý giá. Đó là hành trình của sự kiên trì, nỗ lực không ngừng và luôn hướng về phía trước. Tôi tự hào về những gì mình đã đạt được và luôn sẵn sàng đối mặt với những thử thách mới trong tương lai.
+
+Cảm ơn bạn đã dành thời gian đọc câu chuyện của tôi. Nếu bạn cũng có niềm đam mê với công nghệ, hãy không ngừng theo đuổi nó, bởi vì công nghệ không chỉ là tương lai, mà còn là hiện tại của chúng ta.
